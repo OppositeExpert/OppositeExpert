@@ -1,4 +1,4 @@
-# Hi — I'm Pranav Prabhu 👋
+<img width="3560" height="2036" alt="image" src="https://github.com/user-attachments/assets/b2496f4b-9afb-4892-bd6a-038fbca768b0" /># Hi — I'm Pranav Prabhu 👋
 
 **Engineering student • Analyst • Networking & Tech Consulting Enthusiast**
 
@@ -18,8 +18,6 @@ I build secure, data-driven tools and network labs that solve real problems. I e
 ## Highlight projects
 
 * **secure-bank-dashboard** — *Secure full-stack financial dashboard* (Flask, Streamlit, MySQL). AES encryption for sensitive data, JWT auth, and Paillier homomorphic encryption to compute aggregate analytics without exposing individual data. (Demo + screenshots in repo)
-* **sports-data-insights** — Data analysis & visualization of cricket / F1 statistics using Pandas and Plotly; includes notebooks and a Streamlit dashboard for interactive exploration.
-* **enterprise-network-sim** — Network design and Packet Tracer configs for multi-floor enterprise (VLAN segmentation, inter-VLAN routing, OSPF, HSRP). Includes architecture diagrams and testing checklist.
 
 ---
 
@@ -50,7 +48,7 @@ Roles / internships in **Data Analytics**, **Network Engineering**, or **Technol
 ## Contact / Resume
 
 * Email: [pranav.prabhu@example.com](mailto:ppranavprahu05@gmail.com)
-* LinkedIn: linkedin.com/in/pranav-prabhu-p3356 (update if different)
+* LinkedIn: https://www.linkedin.com/in/pranav-prabhu-p3356/
 * [View my Resume](https://github.com/OppositeExpert/OppositeExpert/blob/main/Pranav_Prabhu.pdf)
 
 
