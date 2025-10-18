@@ -1,4 +1,4 @@
-<img width="3560" height="2036" alt="image" src="https://github.com/user-attachments/assets/b2496f4b-9afb-4892-bd6a-038fbca768b0" /># Hi — I'm Pranav Prabhu 👋
+# Hi — I'm Pranav Prabhu 👋
 
 **Engineering student • Analyst • Networking & Tech Consulting Enthusiast**
 
