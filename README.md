@@ -49,8 +49,8 @@ Roles / internships in **Data Analytics**, **Network Engineering**, or **Technol
 
 ## Contact / Resume
 
-* Email: [pranav.prabhu@example.com](mailto:pranav.prabhu@example.com)
-* LinkedIn: linkedin.com/in/pranav-prabhu (update if different)
+* Email: [pranav.prabhu@example.com](mailto:ppranavprahu05@gmail.com)
+* LinkedIn: linkedin.com/in/pranav-prabhu-p3356 (update if different)
 * Resume: [link to PDF] (add)
 
 ---
