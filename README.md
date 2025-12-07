@@ -17,31 +17,27 @@ I build secure, data-driven tools and network labs that solve real problems. I e
 
 ## Highlight projects
 
-* **secure-bank-dashboard** — *Secure full-stack financial dashboard* (Flask, Streamlit, MySQL). AES encryption for sensitive data, JWT auth, and Paillier homomorphic encryption to compute aggregate analytics without exposing individual data. (Demo + screenshots in repo)
-
+* **SecureBank** — *Secure full-stack financial dashboard* (Flask, Streamlit, MySQL). AES encryption for sensitive data, JWT auth, and Paillier homomorphic encryption to compute aggregate analytics without exposing individual data. (Demo + screenshots in repo)
+* **WicketDesk** — Cricket tournament DBMS dashboard (Flask, MySQL, HTML/JS). Built admin tooling to manage teams, players, matches, coaches, and umpires. Includes inline edits, real-time validations, multi-table relational mapping, and structured match outcomes attribution.
 ---
 
 ## Skills & tools
 
-**Languages:** Python, SQL, Bash
-**Data & ML:** Pandas, NumPy, scikit-learn, matplotlib, Streamlit, Tableau
-**Networking:** Cisco Packet Tracer, GNS3, VLANs, OSPF, HSRP, fiber basics
-**Dev / Infra:** Flask, Docker (planned), Git, CI ideas (GitHub Actions)
-**Security:** AES, JWT, homomorphic encryption (Paillier), basic secure-by-design practices
+**Languages:** Python, SQL, Bash, HTML/CSS/JavaScript
+**Backend & APIs:** Flask, REST APIs, modular CRUD services
+**Frontend & UI:** Streamlit, HTML templates, vanilla JS dynamic elements
+**Database:** MySQL, relational schema design, joins, transactions
+**Data & Analytics:** Pandas, NumPy, matplotlib, data cleaning & projections
+**Networking:** Cisco Packet Tracer, VLANs, OSPF, HSRP, enterprise design structure
+**Security:** JWT auth, AES encryption, secure session design, privacy-preserving analytics
+**Dev / Infra:** Git, documentation pipelines, reproducible local demo setups
 
 ---
 
-## Quick wins I can demo
-
-* Secure analytics (homomorphic sum/average without decrypting user data)
-* End-to-end network design for 3-floor enterprise with config files and verification steps
-* Data story from raw CSV → cleaned dataset → dashboard with insights & forecasts
-
----
 
 ## What I'm looking for
 
-Roles / internships in **Data Analytics**, **Network Engineering**, or **Technology Consulting** — where I can combine technical implementation with business impact.
+Roles / internships in **Data Analytics**, **Cybersecurity**, **Network Engineering**, or **Technology Consulting** — where I can combine technical implementation with business impact.
 
 ---
 
